@@ -1,0 +1,56 @@
+body {  
+    background-color: #08161e;
+    font-family: 'Courier New', Courier, monospace;  
+    
+}
+.nav_bar {
+    font: size 30px;
+    font-weight: bold;
+}
+.container {
+    color:white;
+    margin-top:30px;
+}
+.row {
+}
+.col-8 {
+    color: white;
+}
+.col-4 {
+    color: white;
+}
+.col-3.nav_logo {
+    
+}
+.col-9 {
+    color: white;
+}
+.nav_text {
+    display:flex;
+    align-items:center;
+    justify-content:right;
+}
+.img_size {
+}
+.title_photo {
+    text-align:center;
+}
+.my_photo {
+    background: url(C:/Users/Егор1/my_first_site/images/foto.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 187px;
+    height: 353px;
+    position: relative;
+    left: 350px;
+    bottom: 200px;
+}
+
+.my_pip {
+    background: url(C:/Users/Егор1/my_first_site/images/logo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 28px;
+    height: 67px;
+    position: fixed;
+    right: 1450px;
+    
+}
